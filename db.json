@@ -3,80 +3,56 @@
         {
             "id": 1,
             "title": "Рыбий жир 1",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "4,3",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": true,
+            "product_name": "Свежые продукты и морепродукты"
         },
         {
             "id": 2,
             "title": "Рыбий жир 2",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "5",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": true,
+            "product_name": "Свежые продукты"
         },
         {
             "id": 3,
             "title": "Рыбий жир  3",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "4,7",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": false,
+            "product_name": "Свежые продукты и морепродукты"
         },
         {
             "id": 4,
             "title": "Рыбий жир 4",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "4,3",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": false,
+            "product_name": "Свежые продукты и морепродукты"
         },
         {
             "id": 5,
             "title": "Рыбий жир 5",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "4,3",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": false,
+            "product_name": "Свежые продукты и морепродукты"
         },
         {
             "id": 6,
             "title": "Рыбий жир 6",
-            "discount": "5 - 10%",
+            "discount": "5 - 10",
             "description": "",
             "rating": "4,3",
-            "item" : [
-                {
-                    "item_id": 1,
-                    "name": "Свежые продукты и морепродукты"
-                }
-            ]
+            "is_favorite": true,
+            "product_name": "Свежые продукты и морепродукты"
         }
     ]
 }
